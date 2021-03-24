@@ -80,3 +80,10 @@
     margin-top: 1rem;
     font-weight: bold;
 }
+
+@media screen and (max-width: 699px) and (min-width: 520px) {
+    .modal-container{
+        height: 70vh;
+        width: 70%;
+    }
+}
