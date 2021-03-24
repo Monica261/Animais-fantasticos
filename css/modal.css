@@ -85,3 +85,10 @@
     .modal {
         min-width: 200px;
     }
+}
+
+@media (max-width: 520px){
+    .modal {
+        min-width: 190px;
+    }
+}
