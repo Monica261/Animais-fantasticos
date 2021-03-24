@@ -14,5 +14,5 @@
 	<li>Tooltip</li>
 	<li>Dropdown Menu</li>
 	<li>Menu mobile</li>
-	<li>*E diversas outras</li>
+	<li>E diversas outras...</li>
 </ul>
