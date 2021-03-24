@@ -1,4 +1,4 @@
-<h2>Animais Fantasticos</h2>
+<h1>Animais Fantasticos</h1>
 
 <img src="animais_fantasticos.gif" align="center">
 
